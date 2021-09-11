@@ -14,3 +14,4 @@
 
 ###### Chapitre 6
 > * Stationarity and differencing. https://people.duke.edu/~rnau/411diff.htm
+> * Cointegration, Niti Gupta. https://www.wallstreetmojo.com/cointegration/
