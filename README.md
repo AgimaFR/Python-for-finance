@@ -16,3 +16,5 @@
 > * Stationarity and differencing. https://people.duke.edu/~rnau/411diff.htm
 > * Cointegration, Niti Gupta. https://www.wallstreetmojo.com/cointegration/
 > * Pairs Trading, James Chen. https://www.investopedia.com/terms/p/pairstrade.asp
+
+###### Chapitre 7
