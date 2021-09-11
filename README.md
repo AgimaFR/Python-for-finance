@@ -1,10 +1,5 @@
 # Python for finance and algorithmic trading 
 
-
-
-
-
-
 ### Additional lectures
 ###### Chapitre 3
 > * Markowitz’s “Portfolio Selection “: A Fifty-Year Retrospective, The University of Chicago Press (https://www.jstor.org/stable/269777).
@@ -15,4 +10,7 @@
 > * Tactical Asset Allocation (TAA),  ADAM BARONE. https://www.investopedia.com/terms/t/tacticalassetallocation.asp
 
 ###### Chapitre 5
-> * Optimization of conditional value-at-risk, R. Tyrrell Rockafellar https://www.ise.ufl.edu/uryasev/files/2011/11/CVaR1_JOR.pdf
+> * Optimization of conditional value-at-risk, R. Tyrrell Rockafellar. https://www.ise.ufl.edu/uryasev/files/2011/11/CVaR1_JOR.pdf
+
+###### Chapitre 6
+> * Stationarity and differencing. https://people.duke.edu/~rnau/411diff.htm
