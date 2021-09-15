@@ -35,3 +35,11 @@
 > * Ensemble Methods in Machine Learning: What are They and Why Use Them? Evan Lutins. https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
 
 ###### Chapter 11
+> * Stochastic Gradient Descent — Clearly Explained !!, Aishwarya V Srinivasan. https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31
+
+###### Chapter 12
+> * Recurrent Neural Networks cheatsheet,  Afshine Amidi and Shervine Amidi. https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
+##### Chapter 13
+> * Introduction to Convolutional Neural Networks (CNN), Manav Mandal.https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+
