@@ -4,6 +4,24 @@ The financial sector is undergoing a major restructuring. Traders and portfolio 
 
 
 
+* Learn portfolio management technics and how to implement your own optimization criterion
+
+* How to backtest a strategy using the most useful metrics in trading
+
+* Import data from your brocker to be as close as possible to the market
+
+* Learn statistical arbitrage trought pairs trading strategy
+
+* Generate market predictions using machine learning, deep learning and time series analysis
+
+* Learn how to find the best take profit, stop loss and leverage for yours strategies
+
+* Combine trading strategies using portfolio management to increase the robustness the strategies
+
+* Connect your Python algorithm to your MetaTrader 5 and run it with a demo or live trading account 
+
+* All codes in the book can be used for live trading or screener if you prefer manual trading
+
 
 
 ### Additional lectures
