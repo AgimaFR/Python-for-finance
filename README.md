@@ -24,6 +24,7 @@ The financial sector is undergoing a major restructuring. Traders and portfolio 
 
 
 
+
 ### Additional lectures
 ###### Chapiter 3
 > * Markowitz’s “Portfolio Selection “: A Fifty-Year Retrospective, The University of Chicago Press (https://www.jstor.org/stable/269777).
